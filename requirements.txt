@@ -1,0 +1,5 @@
+lmxl
+django
+allauth
+xml
+urllib
